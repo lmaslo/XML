@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<Bug_Report>
+  <NAME>name</NAME>
+  <PRECONDITION>precondition</PRECONDITION>
+  <ENVIROMENT>environment</ENVIROMENT>
+  <STEPS>
+    <item id="1">STEP 1</item>
+    <item id="2">STEP 2</item>
+    <item id="3">STEP 3</item>
+  </STEPS>
+  <ACTUAL_RESULT>actual_result</ACTUAL_RESULT>
+  <EXPECTED_RESULT>expected_result</EXPECTED_RESULT>
+  <ATTACH>attach</ATTACH>
+</Bug_Report>
