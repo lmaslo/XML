@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SKILS>
+  <item id="1">Base theory</item>
+  <item id="2">Json, xml</item>
+  <item id="3">API, postman</item>
+  <item id="4">logs</item>
+  <item id="5">Dev Tools</item>
+  <item id="6">Sniffer</item>
+  <item id="7">Terminal</item>
+  <item id="8">Mobile test</item>
+</SKILS>
